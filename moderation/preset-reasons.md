@@ -16,7 +16,7 @@ Save your moderators' time by storing preset reasons to use when making redundan
 Preset reasons allow moderators to save time when issuing punishments by using preset flags for reasons that are repeatedly used (like canned responses for moderators!)
 
 ## Configuration
-Configuring preset reasons for your server is simple. Please keep in mind that you must have the `Administrator` permission or be a Moderation Manager to configure preset reasons. 
+Configuring preset reasons for your server is simple. However, please keep in mind that you must have the `Administrator` permission or be a Moderation Manager to configure preset reasons. 
 
 ### Managing Presets
 
